@@ -1,0 +1,32 @@
+p {
+    line-height: 25px;
+}
+
+.container {
+    width: 800px;
+    margin: 0 auto;
+    /* background-color: salmon; */
+}
+
+.container .logo-container {
+    display: flex;
+    justify-content: right;
+}
+
+.bold  {
+    font-weight: bold;
+}
+
+.hijau {
+    color: green;
+}
+.merah {
+    color: red;
+}
+.biru {
+    color: blue;
+}
+
+ul, ol {
+    line-height: 30px;
+}
